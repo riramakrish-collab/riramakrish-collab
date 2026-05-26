@@ -10,7 +10,7 @@ This past year, I built a conflict escalation detection system for an NGA-affili
 
 ---
  
-### 🔭 currently working on
+### 🫧 currently working on
 - building out my AI project portfolio ⚡
 - exploring research in conflict data and intelligence analysis
 - surviving ECE 😅
