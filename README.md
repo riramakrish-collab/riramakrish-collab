@@ -1,4 +1,4 @@
-# hi, i'm riya! 🏵️
+# hi, i'm riya 🏵️
  
 **Electrical & Computer Engineering + Critical Intelligence Studies minor @ Rutgers University**
  
