@@ -15,7 +15,7 @@ This past year, I built a conflict escalation detection system for an NGA-affili
 - exploring research in conflict data and intelligence analysis
 - surviving ECE 😅
 ### 🛠️ tools i use
-`Python` `Java` `C/C++` `MATLAB` `Gemini API` `pandas` `NumPy`
+`Python` `Java` `C/C++` `MATLAB` `Gemini API` `pandas` `NumPy` `KiCad`
  
 ### 🌸 find me
 📩 riramakrish@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/riyarama)
